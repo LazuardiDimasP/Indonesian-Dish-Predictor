@@ -1,0 +1,16 @@
+dish,protein,seasonings,description,image_url
+Nasi Goreng,chicken,"['garlic', 'soy sauce', 'chili']",Fried rice with a mix of seasonings and vegetables.,images/nasi_goreng.jpg
+Rendang,beef,"['coconut milk', 'lemongrass', 'turmeric']",Slow-cooked beef in coconut milk and spices.,images/rendang.jpg
+Sate Ayam,chicken,"['peanut sauce', 'soy sauce']",Chicken skewers with peanut sauce.,images/sate_ayam.jpg
+Gado-Gado,tofu,"['peanut sauce', 'coconut milk']",Vegetable salad with peanut sauce.,images/gado_gado.jpg
+Soto Ayam,chicken,"['turmeric', 'lemongrass', 'ginger']",Chicken soup with turmeric and lemongrass.,images/soto_ayam.jpg
+Pempek,fish,"['garlic', 'vinegar']",Fish cake with vinegar sauce.,images/pempek.jpg
+Nasi Uduk,tempeh,"['coconut milk', 'lemongrass']",Rice cooked in coconut milk.,images/nasi_uduk.jpg
+Sop Buntut,beef,"['soy sauce', 'ginger', 'garlic']",Oxtail soup with soy sauce and ginger.,images/sop_buntut.jpg
+Ayam Goreng,chicken,"['garlic', 'turmeric']",Fried chicken with garlic and turmeric.,images/ayam_goreng.jpg
+Bakso,beef,"['soy sauce', 'garlic', 'pepper']",Beef meatballs in broth.,images/bakso.jpg
+Gudeg,jackfruit,"['coconut milk', 'palm sugar', 'bay leaf']",Sweet young jackfruit stew.,images/gudeg.jpg
+Rawon,beef,"['keluwak', 'lemongrass', 'garlic']",Beef stew with keluak nuts.,images/rawon.jpg
+Tahu Sumedang,tofu,"['garlic', 'salt']",Fried tofu from Sumedang.,images/tahu_sumedang.jpg
+Martabak,egg,"['egg', 'scallions']",Stuffed pancake with eggs and scallions.,images/martabak.jpg
+Ayam Bakar,chicken,"['sweet soy sauce', 'lime leaf', 'ginger']",Grilled chicken with sweet soy sauce.,images/ayam_bakar.jpg
